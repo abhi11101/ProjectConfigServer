@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+office:
+  message: "Welcome to The Office Related QA APIs"
+  contactDetails:
+    name: "Abhijeet Singh"
+    email: "abhi@gmail.com"
+  onCallSupport:
+    - (555)555-1234
+    - (555)123-8765
